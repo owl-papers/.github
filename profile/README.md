@@ -1,15 +1,13 @@
-<!-- <p align="center">
+<p align="center">
   <a href="" rel="noopener">
- <img src="https://i.imgur.com/AZ2iWek.png" alt="Project logo"></a>
+ <img src="https://bafybeigvaksubkpa3wvuvhah3zv64odjobx6aacya7cbarafyhc4f5hime.ipfs.dweb.link/owl_articles.png" alt="Project logo"></a>
 </p>
 <h3 align="center">Owl papers</h3>
 
 <div align="center">
 
-[![Hackathon](https://img.shields.io/badge/hackathon-name-orange.svg)](http://hackathon.url.com)
+[![Hackathon](https://img.shields.io/badge/hackathon-chainlink-orange.svg)](https://chainlink-fall-hackathon-2021.devpost.com/)
 [![Status](https://img.shields.io/badge/status-active-success.svg)]()
-[![GitHub Issues](https://img.shields.io/github/issues/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/issues)
-[![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE.md)
 
 </div>
@@ -18,7 +16,7 @@
 
 <p align="center"> Few lines describing your project.
     <br> 
-</p> -->
+</p>
 
 ## 📝 Table of Contents
 
